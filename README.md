@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitesh goswami" target="blank"><img src="https://img.shields.io/twitter/follow/nitesh goswami?logo=twitter&style=for-the-badge" alt="nitesh goswami" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Android , Javascript**
 
